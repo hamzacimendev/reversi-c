@@ -1,16 +1,22 @@
 # Reversi Game (C)
 
-This project is a console-based Reversi (Othello) game written in C.
+## 📌 About
+This is a learning project developed to improve my programming skills.
+It is a console-based implementation of the classic Reversi (Othello) game written in C.
 
-## Features
+## 🚀 Features
 - Two-player gameplay
-- Save/load system
-- Account system
+- Board game logic implementation
+- Save and load game functionality
+- Basic account system
+- Turn-based mechanics
 
-## Technologies
+## 🛠️ Technologies
 - C Programming Language
 
-## How to Run
-Compile using:
+## ▶️ How to Run
+Compile and run using:
+
+```bash
 gcc reversi.c -o reversi
 ./reversi
